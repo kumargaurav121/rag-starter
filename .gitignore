@@ -230,3 +230,7 @@ knowledge_base/
 vector_db/
 embeddings_cache/
 chunked_docs/
+
+
+# Virtual Environment
+aienv/
